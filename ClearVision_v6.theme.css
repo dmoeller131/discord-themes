@@ -1,4 +1,4 @@
-/**
+   /**
  * @name ClearVision
  * @author ClearVision Team
  * @version 6.3.0
@@ -56,7 +56,7 @@
   /* HOME BUTTON ICON */
   --home-icon: url(https://i.imgur.com/233d55Y.gif); /* home button icon (link must be HTTPS) */
   --home-position: center; /* home button icon position [default: center] */
-  --home-size: 40px; /* home button icon size [default: 40px] */
+  --home-size: 50px; /* home button icon size [default: 40px] */
 
   /* CHANNEL COLORS */
   --channel-unread: var(--main-color); /* Unread Server channel color. [default:  var(--main-color)] THIS OVERRIDES YOUR MAIN COLOR*/
